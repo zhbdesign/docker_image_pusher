@@ -1,1 +1,3 @@
-starrocks/fe-ubuntu:3.3-latest
+starrocks/fe-ubuntu:3.2-latest
+starrocks/cn-ubuntu:3.2-latest
+starrocks/allin1-ubuntu:3.2.8

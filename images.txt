@@ -1,1 +1,1 @@
-starrocks/cn-ubuntu:3.3-latest
+starrocks/fe-ubuntu:3.3-latest

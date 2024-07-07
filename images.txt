@@ -1,3 +1,7 @@
-starrocks/fe-ubuntu:3.2-latest
-starrocks/cn-ubuntu:3.2-latest
-starrocks/allin1-ubuntu:3.2.8
+mysql:latest
+mysql:9.0
+mysql:8.4
+mysql:5.7
+nginx:1.26
+nginx:1.27
+nginx

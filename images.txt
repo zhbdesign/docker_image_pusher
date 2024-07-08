@@ -1,2 +1,2 @@
-rancher/rancher
-redis
+starrocks/fe-ubuntu:3.2.6
+starrocks/cn-ubuntu:3.2.6

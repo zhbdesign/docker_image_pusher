@@ -1,1 +1,2 @@
-minio/minio
+starrocks/fe-ubuntu:3.3-latest
+starrocks/cn-ubuntu:3.3-latest

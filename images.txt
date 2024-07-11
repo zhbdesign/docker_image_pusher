@@ -1,2 +1,1 @@
-starrocks/fe-ubuntu:3.3-latest
-starrocks/cn-ubuntu:3.3-latest
+component.cubefs.io/master

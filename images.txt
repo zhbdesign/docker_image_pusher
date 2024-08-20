@@ -1,1 +1,1 @@
-component.cubefs.io/master
+docker.io/starrocks/cn-ubuntu:3.2.6

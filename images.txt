@@ -1,2 +1,1 @@
-docker.io/starrocks/fe-ubuntu:3.3-latest
-docker.io/starrocks/cn-ubuntu:3.3-latest
+docker.io/sohutv_mqcloud/mqcloud

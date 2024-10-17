@@ -1,1 +1,1 @@
-docker.io/sohutv_mqcloud/mqcloud
+ghcr.io/tapdata/tapdata:latest

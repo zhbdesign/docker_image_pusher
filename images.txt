@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.0.10-local
+ubuntu/squid:latest

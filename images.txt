@@ -1,1 +1,1 @@
-opensearchproject/opensearch-dashboards:latest
+opengauss/opengauss:7.0.0-RC1

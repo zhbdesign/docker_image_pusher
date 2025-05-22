@@ -1,1 +1,1 @@
-redis:6-alpine
+langgenius/dify-sandbox:0.2.12

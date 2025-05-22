@@ -1,1 +1,1 @@
-pgvector/pgvector:pg16
+vastdata/vastbase-vector

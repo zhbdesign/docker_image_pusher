@@ -1,1 +1,1 @@
-langgenius/dify-web:1.4.0
+postgres:15-alpine

@@ -1,1 +1,1 @@
-safarov/freeswitch:latest
+ccr.ccs.tencentyun.com/xswitch/xswitch-free

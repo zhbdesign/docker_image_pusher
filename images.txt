@@ -1,1 +1,1 @@
-pawsql/pawsql-ce:latest
+safarov/freeswitch:latest

@@ -1,1 +1,1 @@
-redis:alpine
+docker.io/library/eclipse-temurin:17-jre
